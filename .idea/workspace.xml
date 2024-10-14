@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab9fbef-7c17-44d1-9132-e97f1b5cf16a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/tests/testColumnNames.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/testColumnNames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728760389318</updated>
       <workItem from="1728760391452" duration="6408000" />
-      <workItem from="1728781905424" duration="11902000" />
+      <workItem from="1728781905424" duration="12408000" />
     </task>
     <servers />
   </component>
