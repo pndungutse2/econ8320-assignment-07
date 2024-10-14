@@ -20,8 +20,6 @@ class testCases(unittest.TestCase):
 
     def testColnames(self):
       truth = pd.read_csv("tests/files/answer.csv")
-
+      print(lego2019.columns)
+      print(truth.columns)
       self.assertTrue(all(truth.columns[i] == lego2019.columns[i] for i in range(len(truth.columns))), "Your dataset does not contain all of the required columns.")
-
-print(lego2019.columns)
-print(truth.columns)
